@@ -9,4 +9,4 @@ full_name = first_name +" " + last_name
 
 #3. print personalized greeting message
 
-print("Hello,",full_name + " ! welcome to the Adventure island.")
+print("Hello,",full_name + "! welcome to the Adventure island.")
