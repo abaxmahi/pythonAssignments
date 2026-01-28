@@ -1,2 +1,2 @@
 # pythonAssignments
-Assignments of python class
+Assignment 1 of python class
